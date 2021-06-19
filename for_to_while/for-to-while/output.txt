@@ -1,0 +1,63 @@
+int sayi1;
+int sayi2;
+if(a=5)
+{topla=a+b;}
+
+int l=4;
+while(l<444)
+{
+l++;
+	toplam3=sayi6+sayi7;
+				
+} 
+
+
+int i=1;
+while(i<111)
+{
+i++;
+toplam0=sayi1+sayi2;
+int j=2;
+while(j<=222)
+{
+j++;
+toplam1=sayi3+sayi4;
+int k=3;
+while(k<333)
+{
+k++;
+toplam2=sayi4+sayi5;
+int l=4;
+while(l<444)
+{
+l++;
+toplam3=sayi6+sayi7;			
+}
+     
+ASAS
+}
+ASAS
+
+}
+ASAS
+}
+
+int l=4;
+while(l<444)
+{
+l++;
+	toplam3=sayi6+sayi7;
+	int l=4;
+while(l<444)
+{
+l++;
+		toplam3=sayi6+sayi7;
+				
+	} 
+				
+}  
+
+
+
+for(){} dongusunun devami
+k=sprintf(wcode,"%s%s%s\nwhile(%s)\n{%s%s}%s",giris,parametrea,parametreb

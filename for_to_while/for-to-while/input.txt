@@ -1,0 +1,49 @@
+int sayi1;
+int sayi2;
+if(a=5)
+{topla=a+b;}
+
+for (int l=4;  l<444;  l++)
+{
+	toplam3=sayi6+sayi7;
+				
+} 
+
+
+for (   int i=1;   i<111;   i++)
+{
+toplam0=sayi1+sayi2;
+for (   int j=2;j<=222;  j++)
+{
+toplam1=sayi3+sayi4;
+for (  int k=3;  k<333;k++)
+{
+toplam2=sayi4+sayi5;
+for (int l=4;  l<444;  l++)
+{
+toplam3=sayi6+sayi7;			
+}
+     
+ASAS
+}
+ASAS
+
+}
+ASAS
+}
+
+for (int l=4;  l<444;  l++)
+{
+	toplam3=sayi6+sayi7;
+	for (int l=4;  l<444;  l++)
+	{
+		toplam3=sayi6+sayi7;
+				
+	} 
+				
+}  
+
+
+
+for(){} dongusunun devami
+k=sprintf(wcode,"%s%s%s\nwhile(%s)\n{%s%s}%s",giris,parametrea,parametreb
